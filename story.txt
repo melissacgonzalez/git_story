@@ -1,1 +1,5 @@
-Once upon a time, there was a classroom of coding students learning how to use git.  For their first assignment, they had to write a story.  The end.
+Once upon a time, there was a classroom of coding students learning how to use git.  For their first assignment, they had to write a story.  
+
+Then they had to make changes to their story.
+
+The end.
